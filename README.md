@@ -5,4 +5,3 @@
 ### LP -> Logique Propositionnelle
 ### AL -> Algorithmique
 ### W -> Web
-
